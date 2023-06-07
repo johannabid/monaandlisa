@@ -6,11 +6,13 @@ Mona & Lisa is a blog about two foodies sharing the passion for food. The text i
 
 ## Description
 
-Main purpose of the project is dealing with API and creating dynamic sites. My focus is design. The text is explementary since this is a fictive site.
+Main purpose of the project is dealing with API and creating dynamic sites. I've been focusing on simple design and continuity. The text is explementary since this is a fictive site. The homepage have a carousel with the latest post. Contact page has a form that requires the user to fill in the correct information for it to be sent. The user will be informed with alert messages if not the right information has been added.
+
+My api calls for fetching blog posts and directing them to the specific post are not at the moment functioning. This issue will be fixed. The design carousel has per speaking a horizontal scroll function that will be fixed.
 
 ## Built With
 
-Visual Studio Code, HTML, CSS and JS
+HTML, CSS and JS
 
 ## Getting Started
 
@@ -24,15 +26,19 @@ git https://github.com/johannabid/monaandlisa.git
 
 ### Running
 
-This project contains both static and dynamic sites. As for now the dynamic sites doesn't work but i'll look into it.
+This project contains both static and dynamic sites. The content is being stored from a WordPress API.
 
-Go to the root folder where you cloned this repo, and double click on index.html to run the file live in your browser.
+As for now the set-up is malfunctioning, so the url can not be reached. I'll set up the cms for the site again, and copy the content for re-deploying.
+
+In the mean time you can look into it's data.
+
+Go to the root folder where you cloned this repo, and open it up in your preferred code tool.
 
 ## Contributing
 
 No contributions have been added on the school project.
 
-Our main goal was to establish respective sites and completing a checkout process for one product. That's the reason why only one project leads to the check out, which is Scott Shell Woman.
+Open a pull request and look into the code if you like
 
 ## Contact
 
