@@ -45,3 +45,10 @@ Open a pull request and look into the code if you like
 Mail: johbid49375@stud.noroff.no
 
 [My LinkedIn page](https://www.linkedin.com/in/jobi-063354249/)
+
+## Acknowledgments
+
+https://content.noroff.dev/javascript-1/query-string-parameters.html
+https://content.noroff.dev/javascript-1/form-validation.html
+https://content.noroff.dev/javascript-1/callback-functions.html
+https://content.noroff.dev/javascript-1/length-trim-eventlistener.html
